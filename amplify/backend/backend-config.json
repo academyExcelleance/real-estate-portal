@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "partnershipportalc18c3615": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

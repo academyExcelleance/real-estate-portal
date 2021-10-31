@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-partnershipportal-dev-205039-authRole",
+      "UnauthRoleArn": "arn:aws:iam::978440663651:role/amplify-partnershipportal-dev-205039-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::978440663651:role/amplify-partnershipportal-dev-205039-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-partnershipportal-dev-205039-deployment",
+      "UnauthRoleName": "amplify-partnershipportal-dev-205039-unauthRole",
+      "StackName": "amplify-partnershipportal-dev-205039",
+      "StackId": "arn:aws:cloudformation:ap-south-1:978440663651:stack/amplify-partnershipportal-dev-205039/7a166810-245d-11ec-8e7e-0a64190acd76",
+      "AmplifyAppId": "d2fh2fohtsdrux"
+    },
+    "categories": {
+      "auth": {
+        "partnershipportalc18c3615": {}
+      }
+    }
+  }
+}
